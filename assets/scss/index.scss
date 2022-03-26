@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+canvas {
+	border: 20px #333333 solid;
+	background: #808080;
+}
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #66b2ff;
+	font-family: sans-serif;
+}
+footer {
+	position: absolute;
+	bottom: 25px;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	color: #333333;
+	p {
+		font-size: 1.2em;
+		letter-spacing: 1.5px;
+		text-transform: uppercase;
+		span {
+			color: red;
+			font-size: 1.5em;
+		}
+		a {
+			color: #333333;
+			text-decoration: none;
+			border-bottom: 2px #333333 solid;
+			transition: all 0.3s;
+			&:hover {
+				padding-bottom: 5px;
+			}
+		}
+	}
+}
+@media (max-width: 650px) {
+	body {
+		display: none;
+	}
+}
