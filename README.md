@@ -2,7 +2,7 @@
 
 # JavaScript Snake
 
-J'ai réalisé ce jeu du snake pendant mon temps libre
+I made this snake game in my free time
 Project : [here](http://snake.jason-fel.be)
 
 ## Get the project
