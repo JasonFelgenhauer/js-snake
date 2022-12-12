@@ -3,7 +3,7 @@
 # JavaScript Snake
 
 I made this snake game in my free time
-Project : [here](http://snake.jason-fel.be)
+Project : [here](https://snake.jason-fel.be)
 
 ## Get the project
 
@@ -37,6 +37,7 @@ npm run sass
 
 1. Adding the project
 2. FIX: Wrong project URL in README
+3. Change url in readme
 
 ## TODO
 
