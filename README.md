@@ -41,15 +41,10 @@ npm run sass
 
 ## TODO
 
--   [x] Improve the visual
--   [x] Optimize the code
-
-## Do in the future
-
 -   [ ] Add a pre-game menu
 -   [ ] A scoreboard
 -   [ ] A "Game Over" page
 
 ## Screenshot
 
-![image](http://pics.jason-fel.be/uploads/1648319775image_2022-03-26_193614.png)
+![image](https://media.discordapp.net/attachments/767431513016500235/1122265007103692830/image.png?width=720&height=375)
